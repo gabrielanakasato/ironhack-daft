@@ -1,3 +1,5 @@
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
 # Project 02 | Data Cleaning & Manipulation
 
 ## Description
@@ -10,7 +12,7 @@ The objective of this projects was to asnwer a problem statement, practicing dat
 **_What are the most commom characteristics of people involved in shark incidents in the history?_**
 
 ## Project Status
-:black_square_button: In progress 
+:black_square_button: Refactoring 
 
 ## Data Source
 The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
@@ -95,7 +97,7 @@ Diving | 1.72
 ## Conclusion
 _**Young adult males** are the most involved in shark incidents while **surfing**_.
 
-This conclusion validates the initial hypothesis that men, specially young adults, tend to tkae more riks than women.
+This conclusion validates the initial hypothesis that men, specially young adults, tend to take more riks than women.
 
 ## Extra - Analysis through the years
 This analysis was made with the **final clean version** of the dataset, which includes data for both male and female of all ages, and the years were categorized into centuries (19th, 20th and 21st). The table below shows tha number of incidents in each century.
