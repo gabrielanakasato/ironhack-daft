@@ -6,23 +6,22 @@
 This is the result of the second project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 3 - Day 1.
 
 ## Objective
-The objective of this projects was to asnwer a problem statement, practicing data cleaning and manipulation.
+The objective of this project was to answer a problem statement, practicing data cleaning and manipulation.
 
 ### Problem Statement
-**_What are the most commom characteristics of people involved in shark incidents in the history?_**
+**_What are the most common characteristics of people involved in shark incidents in the history?_**
 
 ## Project Status
 :black_square_button: Refactoring 
-
-## Data Source
-The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
-
 
 ## Resources
 - Python
 - Jupyter Notbook
 - Pandas
 - Numpy
+
+## Data Source
+The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
 
 ## Process
 1. Obtaing dataset
