@@ -1,24 +1,37 @@
-# TIC-TAC-TOE
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-This tic-tac-toe is a simple game created using Python and Jupyter Notebook.
+# Project 01 | Game :video_game:
 
-## MOTIVATION
+## Description
 
-This is the result of the first mini-project for the Ironhack Data Analytics Bootcamp, putting all the knowledge acquired during the first week into practice.
+This is the result of the first project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired on the first week.
 
-## THE GAME
+## Objective
 
-This game can be played by one or two people (if there is just one person, (s)he will play against the CPU). Before the actual game starts, the CPU will filp a coin to decide who makes the first move. After that, each player marks a space with an O or X in a grid 3 x 3. The first one who places three of their mark in a row (row, column or diagonal) wins the game.
+The objective of this project was to create a simple game, practicing everything learned during the week. The game created was a simple tic-tac-toe.
 
-## LEARNING PROCESS
+## Project Status
 
-### CHALLENGES
+:white_check_mark: Complete
+
+## Resources
+
+- Python
+- Jupyter Notebook
+
+## The Game: Tic-tac-toe 
+
+This game can be played by one or two people (if there is just one person, (s)he will play against the CPU). Before the actual game starts, the CPU will filp a coin to decide who makes the first move. After that, each player marks a space with an :o: or :x: in a grid 3 x 3. The first one who places three of their mark in a row (row, column or diagonal) wins the game.
+
+## Learning Process
+
+### Challenges
 
 - Establish the relationship between the return of the functions created and the gameflow;
 - Use ANSI escape code;
 - Find logic errors.
 
-### THEORY APPLIED
+### Theory Applied
 
 - [x] String manipulation
 - [x] List, Dictionary, Set and Tuple
@@ -28,7 +41,7 @@ This game can be played by one or two people (if there is just one person, (s)he
 - [x] Class
 - [x] Error Handling
 
-### IMPROVEMENTS
+### Improvements
 
 - Visual interface and sounds;
 - Rename the columns to A, B and C;
