@@ -12,7 +12,7 @@ The objective of this project was to answer a problem statement, practicing data
 **_What are the most common characteristics of people involved in shark incidents in the history?_**
 
 ## Project Status
-:black_square_button: Refactoring 
+:white_check_mark: Complete 
 
 ## Resources
 - Python
