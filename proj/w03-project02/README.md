@@ -176,3 +176,13 @@ The result shows that for each century there was different activities and habits
 - Not have enough information in just one dataset
 - Think about how manipulate data in a cell scale
 - Think how to deal with the column 'Age'
+
+### Theory Applied
+- [X] Import and Export data
+- [X] Data Manipulation - Filtering
+- [X] Data Manipulation - Aggregation
+- [X] Data Cleaning
+- [X] Dataframe Calculations
+- [X] Apply Functions
+- [X] Lambda Functions
+- [X] Regex
