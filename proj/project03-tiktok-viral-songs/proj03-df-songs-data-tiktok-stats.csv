@@ -1,4 +1,4 @@
-,index,song_id,song,sp_name,cmc_tiktok_stats,value,timestp,diff
+,index,song_id,song,sp_name,tiktok_stats,value,timestp,diff
 0,0,1,Roxanne,ROXANNE,"{'value': 2100000, 'timestp': '2020-01-19T00:00:00.000Z', 'diff': None}",2100000.0,2020-01-19T00:00:00.000Z,
 1,0,1,Roxanne,ROXANNE,"{'value': 2100000, 'timestp': '2020-01-20T00:00:00.000Z', 'diff': 0}",2100000.0,2020-01-20T00:00:00.000Z,0.0
 2,0,1,Roxanne,ROXANNE,"{'value': 2100000, 'timestp': '2020-01-21T00:00:00.000Z', 'diff': 0}",2100000.0,2020-01-21T00:00:00.000Z,0.0
