@@ -31,23 +31,25 @@ The objective of this project was to answer a problem statement, practicing data
 - Tableau  
 
 ## Process
-**__Part 1__**
+**__Part 1 - Data Gathering__**
 1. Web scrapping for a list of songs to be analyzed
    - PopSugar
-
-**__Part 2__**
-1. Data gathering
+2. Data gathering
    - Spotify
    - Chartmetric
-2. Data cleaning and manipulation
+
+**__Part 2 - Data Cleaning and Manipulation__**
+1. Data cleaning and manipulation
    - Music genre
    - Metadata
    - Audio features
    - Artists
-3. Export dataset
+2. Export dataset
    - PostgreSQL
    - CSV format
-4. Data analysis and visualization using Tableau
+
+**__Part 3 - Data Analysis and Visualization__**
+1. Data analysis and visualization using Tableau
 
 ## Premises
 1. There are 69 songs in list on the _PopSugar_ website, but only 66 were analyzed, because 3 of them were not found in the Spotify library.
