@@ -19,29 +19,29 @@ The objective of this project was to answer a problem statement, practicing data
   - [PopSugar](https://www.popsugar.com/entertainment/popular-tiktok-songs-47289804?stream_view=1#photo-47289832)
 
 - API
-  - [Spotify API](https://developer.spotify.com/)
-  - [Chartmetric API](https://api.chartmetric.com/apidoc/)
+  - [Spotify](https://developer.spotify.com/)
+  - [Chartmetric](https://api.chartmetric.com/apidoc/)
   
 ## Resources
 - Python
-- Jupyter Notbook
 - Pandas
 - Numpy
+- Jupyter Notbook
 - [Spotipy (Spotify API wrapper for Python)](https://spotipy.readthedocs.io/en/2.15.0/)
 - Tableau  
 
 ## Process
 **__Part 1 - Data Gathering__**
-1. Web scrapping for a list of songs to be analyzed
+1. Web scrapping
    - PopSugar
-2. Data gathering
+2. API
    - Spotify
    - Chartmetric
 
 **__Part 2 - Data Cleaning and Manipulation__**
 1. Data cleaning and manipulation
    - Music genre
-   - Metadata
+   - Release Date and Explicit
    - Audio features
    - Artists
 2. Export dataset
@@ -56,7 +56,7 @@ The objective of this project was to answer a problem statement, practicing data
 2. There were some missing values from the data collected for some songs.
 
 ## Issues
-1. Imcomplete data, because some songs or their data were not found/missing value.
+1. Imcomplete data for some songs.
 2. Possibility that the song selected for the analysis is a wrong version.
 
 ## Results
