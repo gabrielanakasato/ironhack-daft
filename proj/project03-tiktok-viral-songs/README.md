@@ -12,7 +12,7 @@ The objective of this project was to answer a problem statement, practicing data
 **_Do some TikTok viral songs have common characteristics?_**
 
 ## Project Status
-:white_large_square: In progress
+:white_check_mark: Complete 
 
 ## Data Source
 - Web Scrapping
@@ -27,7 +27,7 @@ The objective of this project was to answer a problem statement, practicing data
 - Pandas
 - Numpy
 - Jupyter Notbook
-- [Spotipy (Spotify API wrapper for Python)](https://spotipy.readthedocs.io/en/2.15.0/)
+- [Spotipy](https://spotipy.readthedocs.io/en/2.15.0/) (Spotify API wrapper for Python)
 - Tableau  
 
 ## Process
@@ -58,6 +58,7 @@ The objective of this project was to answer a problem statement, practicing data
 ## Issues
 1. Imcomplete data for some songs.
 2. Possibility that the song selected for the analysis is a wrong version.
+3. When no song is selected in the filter box, the radar chart disappears.
 
 ## Results
 The result can be found [here](https://public.tableau.com/profile/gabriela.nakasato#!/vizhome/proj-tiktok-viral-songs/TikTokViralSongs).
