@@ -34,8 +34,6 @@ The objective of this project was to answer a problem statement, practicing data
   
 ## Resources
 - Python
-- Pandas
-- Numpy
 - Jupyter Notbook
 - [Spotipy](https://spotipy.readthedocs.io/en/2.15.0/) (Spotify API wrapper for Python)
 - Tableau  
@@ -66,7 +64,7 @@ The objective of this project was to answer a problem statement, practicing data
 2. There were some missing values from the data collected for some songs.
 
 ## Issues
-1. Imcomplete data for some songs.
+1. Incomplete data for some songs.
 2. Possibility that the song selected for the analysis is a wrong version.
 3. When no song is selected in the filter box, the radar chart disappears.
 
