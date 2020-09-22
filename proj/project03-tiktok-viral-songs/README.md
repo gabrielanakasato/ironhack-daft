@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+<img src="https://bit.ly/2VnXWr2" width="100">
 
 # Project 03 | Data Gathering & Visualization
 
@@ -62,6 +62,26 @@ The objective of this project was to answer a problem statement, practicing data
 
 ## Results
 The result can be found [here](https://public.tableau.com/profile/gabriela.nakasato#!/vizhome/proj-tiktok-viral-songs/TikTokViralSongs).
+
+### Genre
+<p align="center">
+  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-genres.PNG">
+</p>
+
+### Release Date and Explicit
+<p align="center">
+  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-release_date-explicit.PNG">
+</p>
+
+### Audio Features
+<p align="center">
+  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-audio_features-radar.PNG">
+</p>
+
+### Being a TikTok viral song is the same as being popular in other platforms?
+<p align="center">
+  <img width="550" src="https://github.com/gabrielanakasato/ironhack-daft/blob/master/proj/project03-tiktok-viral-songs/image/viral-songs-tiktok-spotify.PNG">
+</p>
 
 ## Learning Process
 ### Challenges
