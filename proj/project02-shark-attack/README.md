@@ -1,27 +1,37 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+<img src="https://bit.ly/2VnXWr2" width="100">
 
-# Project 02 | Data Cleaning & Manipulation
+# Project 02 | Data Cleaning & Manipulation 🧹
 
 ## Description
 This is the result of the second project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 3 - Day 1.
+
+
+## Project Status
+:white_check_mark: Complete 
+
+## Table of Content
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Resources](#resources)
+- [Process](#process)
+- [Premises](#premises)
+- [Results](#results)
+- [Learning Process](#learning-process)
 
 ## Objective
 The objective of this project was to answer a problem statement, practicing data cleaning and manipulation.
 
 ### Problem Statement
-**_What are the most common characteristics of people involved in shark incidents in the history?_**
+>**What are the most common characteristics of people involved in shark incidents in the history?**
 
-## Project Status
-:white_check_mark: Complete 
+## Data Source 🦈
+The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
 
 ## Resources
 - Python
 - Jupyter Notbook
 - Pandas
 - Numpy
-
-## Data Source
-The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
 
 ## Process
 1. Obtain dataset
