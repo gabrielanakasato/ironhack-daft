@@ -24,7 +24,7 @@ The objective of this project was to answer a problem statement, practicing data
 ### Problem Statement
 >**What are the most common characteristics of people involved in shark incidents in the history?**
 
-## Data Source 🦈
+## Data Source
 The dataset was obtained from the [Global Shark Attack File](http://www.sharkattackfile.net/incidentlog.htm).
 
 ## Resources
