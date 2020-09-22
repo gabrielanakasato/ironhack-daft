@@ -1,18 +1,28 @@
 <img src="https://bit.ly/2VnXWr2" width="100">
 
-# Project 03 | Data Gathering & Visualization
+# Project 03 | Data Gathering & Visualization :bar_chart:
 
 ## Description
 This is the result of the third project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired up to Week 5 - Day 5.
+
+## Project Status
+:white_check_mark: Complete 
+
+## Table of Content
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Resources](#resources)
+- [Process](#process)
+- [Premises](#premises)
+- [Issues](#issues)
+- [Results](#results)
+- [Learning Process](#learning-process)
 
 ## Objective
 The objective of this project was to answer a problem statement, practicing data gathering and visualization.
 
 ### Problem Statement
-**_Do some TikTok viral songs have common characteristics?_**
-
-## Project Status
-:white_check_mark: Complete 
+>**Do some TikTok viral songs have common characteristics?**
 
 ## Data Source
 - Web Scrapping
