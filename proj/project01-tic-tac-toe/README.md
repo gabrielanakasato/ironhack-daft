@@ -1,4 +1,4 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+<img src="https://bit.ly/2VnXWr2" width="100">
 
 # Project 01 | Game :video_game:
 
@@ -6,13 +6,20 @@
 
 This is the result of the first project for the Ironhack Data Analytics Bootcamp, using all knowledge acquired on the first week.
 
-## Objective
-
-The objective of this project was to create a simple game, practicing everything learned during the week. The game created was a simple tic-tac-toe.
-
 ## Project Status
 
 :white_check_mark: Complete
+
+## Table of Content
+- [Objective](#objective)
+- [Resources](#resources)
+- [The Game: Tic-tac-toe](#the-game-tic-tac-toe)
+- [Learning Process](#learning-process)
+
+
+## Objective
+
+The objective of this project was to create a simple game, practicing everything learned during the week. The game created was a simple tic-tac-toe.
 
 ## Resources
 
