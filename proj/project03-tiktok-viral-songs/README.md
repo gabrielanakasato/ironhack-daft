@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" width="100">
-
 # Project 03 | Data Gathering & Visualization :bar_chart:
 
 ## Description
