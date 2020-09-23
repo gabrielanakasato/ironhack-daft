@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" width="100">
-
 # Project 02 | Data Cleaning & Manipulation 🧹
 
 ## Description

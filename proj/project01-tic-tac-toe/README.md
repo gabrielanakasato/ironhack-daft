@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" width="100">
-
 # Project 01 | Game :video_game:
 
 ## Description
