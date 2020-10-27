@@ -1,6 +1,6 @@
 # Labs & Projects
 
-These are the results of the labs and projects for the Ironhack Data Analytics Bootcamp.
+These are the results of the **labs** and **projects** made during the **Ironhack Data Analytics Bootcamp**.
 
 The labs were exercises to practice what was learned on the lectures and the projects were created to practice all knowledge acquired up to the day it was completed.
 
